@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.555,C:\Users\pivog\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Рабочая\Delphi\MazeGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,=C:\Users\pivog\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,=C:\Users\pivog\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,C:\Users\pivog\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Рабочая\Delphi\MazeGenerator\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,C:\Рабочая\Delphi\MazeGenerator1\Unit1.dfm=C:\Рабочая\Delphi\MazeGenerator\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,C:\Users\pivog\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj=C:\Рабочая\Delphi\MazeGenerator\MazeCenerator.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,C:\Рабочая\Delphi\MazeGenerator1\Unit1.pas=C:\Рабочая\Delphi\MazeGenerator\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,C:\Рабочая\Delphi\MazeGenerator1\MazeCenerator.dproj=C:\Рабочая\Delphi\MazeGenerator\MazeGenerator.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.163,=C:\Users\pivog\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,=C:\Users\pivog\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
